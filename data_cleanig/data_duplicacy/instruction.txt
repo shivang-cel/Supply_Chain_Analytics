@@ -1,3 +1,0 @@
-first run dupli.py
-then run 
-clean.py : It return required output
